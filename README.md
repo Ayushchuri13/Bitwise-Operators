@@ -20,3 +20,7 @@ Every one of the information it gets is encoded at the most minimal level to a p
 
 Find some more applications here :
 https://www.programiz.com/c-programming/bitwise-operators
+
+
+Output :
+![Screenshot 2023-04-18 190855](https://user-images.githubusercontent.com/125973911/232795795-800df6e8-f518-4909-a0a0-89b316459baa.png)
